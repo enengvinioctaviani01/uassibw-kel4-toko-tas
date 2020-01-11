@@ -10,9 +10,8 @@ SISTEM INFORMASI 5B
 # Deskripsi
 WEB PENJUALAN TAS SEDERHANA LAVIRA MENGGUNAKAN PHP DAN MYSQL
 
-![image](images/Login.png)
+Diupload untuk memenuhi salah satu tugas mata kuliah Sistem Informasi Berbasis Web
 
-![image](images/beranda_1.png)
-
-![image](images/beranda_2.png)
-
+![image](images/s.png)
+![image](images/ss.png)
+![image](images/sss.png)
